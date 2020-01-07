@@ -56,7 +56,7 @@
                     <!-- Required: The following will ensure `npm install` is called
                          before anything else during the 'Clean Lifecycle' -->
                     <execution>
-                        <id>npm install (clean)</id>
+                        <id>exec-npm-install (clean)</id>
                         <goals>
                             <goal>exec</goal>
                         </goals>
