@@ -1,0 +1,28 @@
+{
+  "BusinessCategory": [
+    { "Id": "Game1", "bc": "American Football" },
+    { "Id": "Game2", "bc": "Badminton" },
+    { "Id": "Game3", "bc": "Basketball" },
+    { "Id": "Game4", "bc": "Cricket" },
+    { "Id": "Game5", "bc": "Football" },
+    { "Id": "Game6", "bc": "Golf" },
+    { "Id": "Game7", "bc": "Hockey" },
+    { "Id": "Game8", "bc": "Rugby" },
+    { "Id": "Game9", "bc": "Snooker" },
+    { "Id": "Game10", "bc": "Tennis" }
+  ],
+  "County": [
+    { "Id": "county1", "county": "Aberdeenshire" },
+    { "Id": "county1", "county": "Banffshire" },
+    { "Id": "county1", "county": "Cambridgeshire" },
+    { "Id": "county1", "county": "Derbyshire" },
+    { "Id": "county1", "county": "East Sussex" },
+    { "Id": "county1", "county": "Flintshire" },
+    { "Id": "county1", "county": "Galway" },
+    { "Id": "county1", "county": "Hampshire" },
+    { "Id": "county1", "county": "Isle of Arran" },
+    { "Id": "county1", "county": "Kent" },
+    { "Id": "county1", "county": "Lancashire" },
+    { "Id": "county1", "county": "Merseyside" }
+  ]
+}
