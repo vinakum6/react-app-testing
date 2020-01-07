@@ -6,7 +6,7 @@
 	<packaging>war</packaging>
 	<groupId>webapp</groupId>
 	<artifactId>webapp</artifactId>
-	<version>1.0</version>
+	
 	
 	<!-- Additional lines to be added here... -->
 	<build>
